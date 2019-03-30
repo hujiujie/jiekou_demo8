@@ -1,0 +1,6 @@
+[
+  "test_top_stocks.py::test_top_stocks[3]",
+  "test_top_stocks.py::test_top_stocks[-1]",
+  "test_top_stocks.py::test_top_stocks[10]",
+  "test_top_stocks.py::test_top_stocks[100]"
+]
